@@ -6,6 +6,6 @@ Code inspired from Geeks for Geeks Tutorial
 source link : https://www.geeksforgeeks.org/tic-tac-toe-gui-in-python-using-pygame/
 
 
-![alt text](./1.jpg "Screenshot 1")
+![alt text](./screen1.jpg "Screenshot 1")
 ![alt text](./2.jpg "Screenshot 2")
 ![alt text](./3.jpg "Screenshot 3")
